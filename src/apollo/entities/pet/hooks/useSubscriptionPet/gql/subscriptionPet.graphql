@@ -1,0 +1,10 @@
+subscription {
+  petReturned {
+    pet {
+      id
+      name
+    }
+    checkInDate
+    checkOutDate
+  }
+}
